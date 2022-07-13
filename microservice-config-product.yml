@@ -4,7 +4,7 @@ spring:
     active: dev # 激活开发环境配置
 
 emp:
-  name: zhangsan
+  name: lisi
 ---
 server:
   port: 8001
